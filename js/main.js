@@ -23,7 +23,7 @@ function removeBorder() {
     })
 }
 
-// Remove Content From Display Area
+// Remove Content From Display Area 
 function removeShow() {
     tabContentItems.forEach(item => {
         item.classList.remove('show')
