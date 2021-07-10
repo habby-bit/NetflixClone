@@ -2,6 +2,8 @@
 
 ## Description
 
+This website is a simple clone of an old Netflix Landing Page. The user is able to toggle between tabs to see information about choosing a plan, watching on multiple devices and cancelling one's subscription. The site is also fully responsive across multiple devices.
+
 ## Table of Contents
 
 -   [Project Summary](#description)
@@ -11,7 +13,7 @@
 
 ## Preview
 
-Below are some example images of the app!
+Below are some example images of the site!
 
 ![Neflix Clone Still Example #1](img/NetflixCloneSH_3.png)
 
@@ -21,8 +23,8 @@ Below are some example images of the app!
 
 ## App
 
-Here is a link to the deployed app on GitHub Pages:
-[Weather App](https://habby-bit.github.io/NetflixClone/)
+Here is a link to the deployed website on GitHub Pages:
+[Netflix Clone](https://habby-bit.github.io/NetflixClone/)
 
 ## Questions?
 
