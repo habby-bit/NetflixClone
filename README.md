@@ -14,7 +14,9 @@
 Below are some example images of the app!
 
 ![Neflix Clone Still Example #1](img/NetflixCloneSH_3.png)
+
 ![Neflix Clone Still Example #2](img/NetflixCloneSH_1.png)
+
 ![Neflix Clone Still Example #3](img/NetflixCloneSH_2.png)
 
 ## App
