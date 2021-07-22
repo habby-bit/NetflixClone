@@ -358,10 +358,6 @@ img {
         box-shadow: inset 80px 80px 250px black, inset -80px -80px 250px black;
     }
 
-    .showcase-content {
-        margin-top: 10rem;
-    }
-
     .showcase-top a {
         margin-right: -1rem;
     }
